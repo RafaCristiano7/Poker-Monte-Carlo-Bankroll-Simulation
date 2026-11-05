@@ -1,5 +1,4 @@
-# Poker-Monte-Carlo-Bankroll-Simulation
-it's in the name
+
 import matplotlib.pyplot as plt
 import numpy as np
 
