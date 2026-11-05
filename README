@@ -1,5 +1,18 @@
 This is my first ever project!!!!
+
 Question: Can a positive EV strategy still leave you worse off?
 Method: Monte Carlo, 500 paths, 10k hands, absorbing barrier at ruin.
-Finding: Ruin rate relatively small at 0-1%, however 41% finish below starting bankroll when edge is small vs variance.
-Conclusion: Your edge has to be big enough, or sample size large enough, to counteract variance.
+Data: My own 14600 hands, standard empirical data for 6Max No-Limit Hold'Em
+Finding: Ruin rate relatively small at 0-1%, 
+however 41% finish below starting bankroll when edge is small vs variance.
+
+What's in here:
+Monte Carlo Sim for Path Dependent Ruin and Risk.pdf - full 6 page write-up with model logic, parameter assumptions, and analysis
+simulation.md - The Monte Carlo simulation
+
+
+How to run: 
+Use the code in simulation.md, tweak the parameters as you please.
+
+Building projects like these while I explore market roles (Trading, Risk, Equity Research, Asset Management)
+If you are in finance looking at this, hire me please hehe!
