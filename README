@@ -1,0 +1,5 @@
+This is my first ever project!!!!
+Question: Can a positive EV strategy still leave you worse off?
+Method: Monte Carlo, 500 paths, 10k hands, absorbing barrier at ruin.
+Finding: Ruin rate relatively small at 0-1%, however 41% finish below starting bankroll when edge is small vs variance.
+Conclusion: Your edge has to be big enough, or sample size large enough, to counteract variance.
